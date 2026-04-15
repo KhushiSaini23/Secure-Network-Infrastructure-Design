@@ -4,6 +4,10 @@ Network Overview -
 
 The network is divided into multiple departments such as Sales, HR, and IT. Each department operates within its own Virtual LAN (VLAN), ensuring logical separation and improved network management.
 
+
+<img width="1893" height="693" alt="Screenshot 2026-04-16 041340" src="https://github.com/user-attachments/assets/e93c1c70-1dbb-4d07-8d45-f5c69e936583" />
+
+
 Key Configurations
 
 VLAN (Virtual Local Area Network)
