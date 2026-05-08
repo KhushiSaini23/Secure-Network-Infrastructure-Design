@@ -1,7 +1,7 @@
 Designed and implemented a secure network infrastructure using Cisco Packet Tracer, including VLANs, DHCP, DNS, and routing configurations. Focused on network security, segmentation, and efficient communication between departments in a simulated enterprise environment.
 
 Network Overview -
-
+https://github.com/KhushiSaini23/Secure-Network-Infrastructure-Design/edit/main/README.md
 The network is divided into multiple departments such as Sales, HR, and IT. Each department operates within its own Virtual LAN (VLAN), ensuring logical separation and improved network management.
 
 
@@ -52,7 +52,7 @@ Desktop → Command Prompt
 Run the following command:
 ping 192.168.20.2
 
-Test Server and DNS Configuration
+### Test Server and DNS Configuration
 
 To verify web server and DNS functionality:
 
@@ -69,7 +69,7 @@ DNS services are functioning correctly
 Web server configuration is successful
 End-to-end network communication is properly established
 
-# Technologies Used --
+### Technologies Used --
 Cisco Packet Tracer
 VLAN Configuration
 Inter-VLAN Routing
