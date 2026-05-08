@@ -61,7 +61,8 @@ Navigate to:
 Desktop → Web Browser
 Enter the following domain:
 mysite.com
-Expected Result
+
+### Expected Result -
 
 If the website loads successfully, it confirms that:
 
@@ -69,7 +70,7 @@ DNS services are functioning correctly
 Web server configuration is successful
 End-to-end network communication is properly established
 
-### Technologies Used --
+### Technologies Used -
 Cisco Packet Tracer
 VLAN Configuration
 Inter-VLAN Routing
