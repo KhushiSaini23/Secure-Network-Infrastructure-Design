@@ -33,3 +33,47 @@ To ensure reliable communication between departments
 Conclusion
 
 This project demonstrates practical knowledge of networking concepts such as VLANs, DHCP, DNS, and routing. It also reflects an understanding of network security and real-world infrastructure design using Cisco Packet Tracer.
+
+## How to Run the Project
+
+### 1. Open the Project
+Open the `.pkt` file in Cisco Packet Tracer.
+
+### 2. Allow Network Initialization
+Wait for approximately 5–10 seconds until all device connection indicators turn green and the network becomes stable.
+
+### 3. Verify Network Connectivity
+To test communication between VLANs and confirm proper routing configuration:
+
+- Open **PC0**
+- Navigate to:
+  
+Desktop → Command Prompt
+Run the following command:
+ping 192.168.20.2
+
+Test Server and DNS Configuration
+
+To verify web server and DNS functionality:
+
+Open PC0
+Navigate to:
+Desktop → Web Browser
+Enter the following domain:
+mysite.com
+Expected Result
+
+If the website loads successfully, it confirms that:
+
+DNS services are functioning correctly
+Web server configuration is successful
+End-to-end network communication is properly established
+
+# Technologies Used --
+Cisco Packet Tracer
+VLAN Configuration
+Inter-VLAN Routing
+DHCP
+DNS
+Server Configuration
+Network Security Concepts
